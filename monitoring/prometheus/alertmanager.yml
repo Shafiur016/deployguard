@@ -1,0 +1,5 @@
+route:
+  receiver: demo-noop
+receivers:
+  - name: demo-noop
+# No-op demo receiver: configure an email/Slack/webhook receiver for real notifications.
